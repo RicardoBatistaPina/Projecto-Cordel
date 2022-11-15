@@ -96,5 +96,12 @@ footer a {
     color: white;
     font-weight: 600;
 }
-
+@media (max-width: 500px) {
+    header div {
+        font-size: 3.2vw;
+    }
+    footer {
+        font-size: 3.2vw;
+    }
+}
 
