@@ -73,12 +73,12 @@ header p a:hover, footer a:hover {
 }
 /* 1ST SECTION */
 #imag1 {
-    background: black url(imagens/background001.jpg) no-repeat fixed center right ;
+    background: black url("../imagens/background001.jpg") no-repeat fixed center right ;
     background-size: cover;
 }
 /* 2ND SECTION */
 #imag2 {
-    background: black url(imagens/background002.jpg) no-repeat fixed center left;
+    background: black url("../imagens/background002.jpg") no-repeat fixed center left;
     background-size: cover;
 }
 /* MAIN / FOOTER */
